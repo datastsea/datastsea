@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  <h3>Datast Sea 🌊</h3>
+  <h3>Datast Sea</h3>
   
   <div>Hello, I'm <strong>Data Engineer</strong>.</div>
   <div>I am also interested in <strong>Data Science</strong> and <strong>Data Analysis</strong>.</div>
