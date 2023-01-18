@@ -24,7 +24,8 @@
   <h4>🚀 Frameworks & Library 🚀</h4>
   <div>
     <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
-<!--     <br/> -->
+    <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
+    <br/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> -->
