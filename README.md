@@ -4,8 +4,12 @@
   
   <h3>Datast Sea</h3>
   
-  <div>Hello, I'm <strong>Data Engineer</strong>.</div>
-  <div>I am also interested in <strong>Data Science</strong> and <strong>Data Analysis</strong>.</div>
+  <div>
+    Hello, I'm <strong>Data Engineer</strong>.<br/>
+    I am also interested in <strong>Data Science</strong> and <strong>Data Analysis</strong>.<br/>
+    Here is my engineering blog, <a href="https://velog.io/@datastsea">datastsea.log</a>!<br/>
+    Please visit :)
+  </div>
   <br/>
   
   <h4>👩‍💻 Languages 👩‍💻</h4>
